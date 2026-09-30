@@ -33,7 +33,7 @@ My resume/CV is also available through the portfolio website.
 
 ## 🌐 Live Website
 
-(https://umeaimansalman.github.io/My-Portofolio/)
+https://umeaimansalman.github.io/My-Portofolio/
 
 ## 📬 Contact
 
